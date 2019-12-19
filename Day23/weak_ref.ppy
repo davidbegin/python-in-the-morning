@@ -1,0 +1,62 @@
+print('\033c')
+
+print("\t\033[35;1;6;4;5mBest Wednesday Ever! \033[0m\n")
+
+
+from dis import dis
+import opcode
+
+
+
+
+class TwilightBus:
+    """A bus model haunted by ghost passengers"""
+
+    def __init__(self, passengers=None):
+        if passengers:
+            # self.passengers = passengers[:]
+            self.passengers = list(passengers)
+        else:
+            self.passengers = []
+
+    def pick(self, name):
+        self.passengers.append(name)
+
+    def drop(self, name):
+        self.passengers.remove(name)
+
+    def __repr__(self):
+        return f"{id(self)} - {self.passengers}"
+
+
+
+
+
+
+import weakref
+
+s1 = {1, 2, 3}
+
+s2 = s1
+
+def bye():
+    print('Gone with the wind...')
+
+ender = weakref.finalize(s1, bye)
+print(ender.alive)
+
+del s1
+print(ender.alive)
+
+s2 = 'spam'
+print("Gone with the Wind just happened!")
+print(ender.alive)
+
+
+
+
+
+
+
+
+
