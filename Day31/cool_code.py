@@ -53,6 +53,7 @@ class Vector:
     def __invert__(self):
         return Vector((~x for x in self))
 
+
     def __add__(self, other):
         return Vector([ x + y for x, y in zip(self, other) ])
 
