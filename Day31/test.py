@@ -1,5 +1,6 @@
 import pytest
 
+
 from cool_code import Vector
 
 def test_something():
