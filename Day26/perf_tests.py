@@ -32,6 +32,7 @@ class Vector:
 class Vector2:
     typecode = 'd'
 
+
     def __init__(self, components):
         self._components = array(self.typecode, components)
 
