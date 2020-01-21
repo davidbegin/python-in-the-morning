@@ -6,6 +6,10 @@ print("\t\033[31;1;6;4;5mTuesday and Time to Learn!\033[0m\n")
 from dis import dis
 import opcode
 
+askfjklajlkj
+o
+afskja
+
 
 import decimal
 
