@@ -70,6 +70,10 @@ Learnings
     then you're in a non-pdb shell, so you can use all the cool
     single variable letter names you want
 
+	* It’s cheap to import modules again because Python caches them.
+
+	* When real applications take over standard output, they often want to replace sys.stdout with another file-like object for a while, then switch back to the original. The contextlib.redirect_stdout context manager does exactly that: just pass it the file-like object that will stand in for sys.stdout.
+
 Ponderings
 ==========
 	* Do we like then better than else?

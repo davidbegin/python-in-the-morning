@@ -1,16 +1,8 @@
 import pytest
 
-class LookingGlass():
-    def __enter__(self):
-        pass
-
-    def __exit__(self, exc_type, exc_value, traceback):
-        pass
-
-
-# DON'T UPDATE THIS
+# DON'T UPDATE THIS JUST CREATE A CONTEXT MANAGER
 def reverso():
-    with LookingGlass() as what:
+    with YOUR_CONTEXT_MANAGER as what:
         return print("Alice, Kitty and Snowdrop")
 
 
