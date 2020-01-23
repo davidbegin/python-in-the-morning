@@ -262,3 +262,32 @@ Rants
 		Branching Forking, branching, rebasing, submitting your PR.
 
 
+
+After Work
+===
+
+Haze's Repo: HTML-Auto-python
+
+2 Options for Contributing:
+  * Forking and opening Pull Requests
+    - This is the Open Source model, so is nice for extra practice.
+    - Open Source is a habit!
+  * Permissions on a branch
+    - I don't know how to do this in Github!
+
+
+Questions:
+  * How do you see the main github connected thang?
+  * How do you ignore virtualenvs?
+  * How do you add a .gitignore only for you? .gitignore.local?
+  * How do you setup permissions for someone only on a branch in Github
+
+
+
+Useful commands for learning more about Git!
+```
+git help -a
+git help -g
+```
+
+git remote show origin
