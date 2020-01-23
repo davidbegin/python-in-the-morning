@@ -60,6 +60,7 @@ Viewer Questions
 Viewer Projects
 ===============
 
+rune_trimmed
 ```
 Goal: The project I was wanting to do was make a file of all the songs in my "liked" playlist on spotify.
 
@@ -99,20 +100,14 @@ into relational.
 
 
 
-
-
-
-
-
-
-
 Questions
 =========
   * Is a string considered an Iterator?
     No!!
     It is a Iterable
     It is not consumable just once and has no next method
-	* Whats company that doesn't use a relational database.
+
+	* What's the biggest company that doesn't use a relational database?
 
 
 
@@ -191,7 +186,7 @@ Debates
 =======
   * The Problem with Syntax Sugar
     - Nows theres 2 ways to do it,
-      now your code is not uni
+      now your code is not unified
 
 
 	* Postgresql versus MySql for your first DB

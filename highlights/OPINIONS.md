@@ -46,8 +46,14 @@ Steps to finding automation in your life:
 
 
 
-
-
-
+Database Advice:
+================
+	* Learn the common patterns for normalizing data in a relational manner
+	* Query the DB with SQL and not just through your language
+	* Have fun
+	* SQL skills are going to lead to a job probably faster
+	* NoSQL are needed, but a little rarer, but if you are new and find a company
+    who helps help in that part. Mongo, and you only Mongo, you might get hired
+    ea
 
 

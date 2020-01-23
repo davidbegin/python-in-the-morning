@@ -7,16 +7,17 @@ import tracemalloc
 
 def measure_memory(func):
     tracemalloc.start()
+    def measure():
 
-    func()
+        func()
 
-    current, peak = tracemalloc.get_traced_memory()
-    print(f"\n\033[37mFunction Name       :\033[35;1m {func.__name__}\033[0m")
-    print(f"\033[37mCurrent memory usage:\033[36m {current / 10**6}MB\033[0m")
-    print(f"\033[37mPeak                :\033[36m {peak / 10**6}MB\033[0m")
-    tracemalloc.stop()
+        current, peak = tracemalloc.get_traced_memory()
+        print(f"\n\033[37mFunction Name       :\033[35;1m {func.__name__}\033[0m")
+        print(f"\033[37mCurrent memory usage:\033[36m {current / 10**6}MB\033[0m")
+        print(f"\033[37mPeak                :\033[36m {peak / 10**6}MB\033[0m")
+        tracemalloc.stop()
 
-    return func
+    return measure
 
 
 @measure_memory
@@ -41,6 +42,4 @@ def fast():
         # print("Total", sum(bytes_sent))
 
 slow()
-breakpoint()
-
-# fast()
+fast()

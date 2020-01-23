@@ -86,3 +86,26 @@ Option 2:
 	- implies a 2 length tuple
 	- faster
 	- Maybe: _ hey what did you throw away
+
+
+
+
+## The Problem with Syntax Sugar
+Looks nice but nows theres 2 ways to do it, now your code is not unified
+
+
+## Postgresql versus MySql for your first DB
+		- Depends on the language and community
+		- First Lang is PHP - MySQL
+		- Ruby - Postgresql
+		- Python - Postgresql
+			is python more friendly to MySQL or Postgresql
+		- Postgres had some cool stickers, that NoSQL on Acid
+				- Postgres, you store arrays and JSON, and Hashes,
+				- You do make Mongo and Relational DB.
+		- Higher major version == Better projecr
+
+
+Haze Opinion: languages should be 100% database agnostic
+Begin's counter opinion: I agree theortically. But for
+a beginner community summort is super important.
