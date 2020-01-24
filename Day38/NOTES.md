@@ -72,10 +72,26 @@ Learnings
 
 	* It’s cheap to import modules again because Python caches them.
 
-	* When real applications take over standard output, they often want to replace sys.stdout with another file-like object for a while, then switch back to the original. The contextlib.redirect_stdout context manager does exactly that: just pass it the file-like object that will stand in for sys.stdout.
+
+* Recall that the __exit__ method tells the interpreter that it has handled the exception by returning True; in that case, the interpreter suppresses the exception. On the other hand, if __exit__ does not explicitly return a value, the interpreter gets the usual None, and propagates the exception. With @contextmanager, the default behavior is inverted: the __exit__ method provided by the decorator assumes any exception sent into the generator is handled and should be suppressed.5 You must explicitly re-raise an exception in the decorated function if you don’t want @contextmanager to suppress it.6,
+
+Key: be careful about errors raised in your yield with using @contextmanager
+		 Your __exit__ will not run!!!!
+
+
+
+w Having a try/finally (or a with block) around the yield is an unavoidable price of using @contextmanager, because you never know what the users of your context manager are going to do inside their with block.
 
 Ponderings
 ==========
+
+	* What is the python communnitys take on longer methods?
+		Whats your stance?
+		Begin's Old Stance in Ruby: Never more than 5 lines.
+
+
+
+
 	* Do we like then better than else?
 		Wheres the PEP for then?
 		What other languages use then?
@@ -98,6 +114,21 @@ Ponderings
 	running for a bit, becoming falsy and moving on.
 	otherwise we have infinite loop
 	else is still about success.
+
+
+
+When to implement and use custom Context managers?
+	- Generic Answer: When you need consistent setup and teardown
+		- Files
+		- connections to things
+		- Database transaction
+		- Test setup and Teardown
+
+
+
+
+
+
 
 
 

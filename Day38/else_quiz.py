@@ -20,7 +20,6 @@ def while_with_else_2():
         return "Goodbye my sweet love"
 
 
-
 def for_with_else_1():
     l1 = [1, 2, 3]
 
@@ -146,7 +145,3 @@ def test_q10():
     result = try_with_else_2()
     your_answer = INSERT_ANSWER
     assert result == your_answer
-
-
-
-
