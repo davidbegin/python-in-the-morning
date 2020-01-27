@@ -1,6 +1,11 @@
 2020 - 1 - 24
 =============
 
+Every Checkout
+==============
+pip install pdbpp
+pip install pudb
+
 Goals
 =====
   * Learn some things about code or computer science or python
@@ -9,11 +14,34 @@ Goals
   * Viewer Code Review
 
 
+UserTwitchUser how to learn AWS
+===
+  * Deploy that Docker image with Fargate
+    - Open up the Fargate tutorials and just go through.
+      until you can deploy you application with Fargate.
+    - boto3
+    - Terraform
+
+
+
+HTML Auto Discussions
+====
+	* HazeAnderson: error handling cannot be involved with validating HTML however
+	* Garbage in Garbage out
+
+
+
+
 Topic
 =====
   * Multi-Tenacy Applications
     Multiple users, sharded data across multiple sources,
     for data isolation and what not.
+
+How do you know if you need On-Prem:
+===
+  * Insane speed, next to the server physically
+  * Intense Security compliance things
 
 
 Beanie Baby™ TY™ Application for store info about their collections.
@@ -160,21 +188,27 @@ I would do some fact gathering and documentation:
 
 
 
-
-
-
-
-
-
-
-
-
+Stolen Ideas
+============
+  * Ban Phrases in Documention
+    - It's Simple
 
 
 
 
 Viewer Questions
 ================
+  * Whats the opposite of pop? (begins unshift?)
+  * stupac62: Can kubernetes be used for multi-tenant in cloud?
+  * usertwitchuser: can u do some serverless docker and kubernetes @beginbot  ?
+          - serverless - means a micro vm boots a server on request
+            - deploying a zip of code (from s3)
+          - kubernetes - this is a server is running, but in a container!
+            - docker image
+          - we take one code base, and just generate both.
+              - we can do local docker
+              - Serverless
+              - we do anything docker deploy, fargate, ecs, kubernetes
 
 Questions
 =========
@@ -191,9 +225,92 @@ Ponderings
 Opinions
 ========
   * On-Prem versus Cloud Native Multi-Tenancy Apps are entirely different Beasts
+  * HazeAnderson: it's good to have some experience installing a Linux server from scratch --- set up users, ssh, firewalls, database and web servers
+  Begin's Rebutal: I will never do that at a startup
+
+  * If you are building a Cloud Native of any significant size, then theres
+    some uses for lambda in there.
+    Its useful for gluing stuff together, or cron job
+
+	* HazeAnderson: goal #1 never write configs by hand :D
+		HazeAnderson: goal #2 use an easy tool if you have to :D
+
+
+
+What is DbC?
+	Design by Contract
+	Whats your contract?
+		- Spec?
+		- Types?
+		- Aren't tests a contract???
+		- JSON Schema??
+
+
+Begin's TDD Advice for Beginners:
+	* Red Green Refactor
+	* Something doesn't
+		- make you a theory on why it failed
+		- make a test to validate your theory
+		- test and repeat
+
+
+
+
+
+Common problem when writing versus reading code:
+	- The intention was not obvious
+	- So the reader thought it didn't work, and started making changes
+
+
+
+
+
+
+
+
+
+
+
 
 Debates
 =======
+
+Facts We Know:
+	* You need to store configuration
+	* One solution will not work for every use case
+
+We aren't looking for the configuration answer:
+	- When do we use which one
+		Questions To Ask to Determine which to use:
+			- Who is all going to edit these files?
+			- How often will they change?
+			- How complex will they be?
+			- Do we share them?
+			- Who do need to share them with?
+
+
+Having a default is a Good thing
+
+
+What do you use:
+	XML
+		-> Super verbose
+		-> you can do anything
+	YML
+		-> Comments
+		-> White space nested sucks
+	TOML
+	JSON
+		-> common API support
+	INI
+		-> Very Simple
+
+
+	* Pyenv
+	* Virtualenv
+	* python -m venv venv
+
+
 
 Python Interview
 ================
@@ -205,4 +322,29 @@ Scraps
 Quotes
 ======
   - "Ideas aren't worth anything. Execution is."
+
+"Then—Hettinger told us—he had an insight: subroutines are the most important invention in the history of computer languages."
+
+
+
+
+Do this
+then this
+than this
+then_this_mehtod
+then_this_mehtod
+
+
+then_this_method
+	do this
+	and this
+
+
+
+
+
+
+
+
+
   
