@@ -218,7 +218,7 @@ Board: https://www.msi.com/Motherboard/X470-GAMING-PRO-CARBON/Specification
 
 TODO:
 =====
-  * Change Bitrate to 2500
+  √ Change Bitrate to 2500
 	* Make it so you change hue lights with begin bux,
     commands
 	* Start making youtube playlists
