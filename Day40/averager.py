@@ -35,6 +35,7 @@ def a_wannabe_coroutine_func():
     print(f"Cool: {x}")
 
 a1 = a_wannabe_coroutine_func()
+breakpoint()
 
 try:
     a1.send(108)
