@@ -1,6 +1,9 @@
 <DATE>
 ======
 
+Goals
+=====
+
 Viewer Questions
 ================
 
@@ -18,6 +21,9 @@ Opinions
 
 Debates
 =======
+
+Confessions
+===========
 
 Python Interview
 ================
