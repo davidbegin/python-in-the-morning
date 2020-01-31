@@ -21,13 +21,13 @@ Viewer Questions
 Questions
 =========
   * When would you use process-based versus thread based concurenncy
-		- Depends on if you are I/O Bound or CPI Bound
+		- Depends on if you are I/O Bound or CPU Bound
 		- I/O Bound
 			- use ThreadPoolExecutor, and you will ahve to experiemtn
         with the number of workers it needs based on available memory
 		- CPU Bound
 				- ProcessPoolExecutor
-				- you dont need a limi of works
+				- you dont need a limit of works
 					- it makes more sense to have more workers than CPUs
     - ProcessPoolExecutor for the flags download example or any I/O-bound job.
     - ThreadPoolExecutor.__init__ requires a max_workers 
