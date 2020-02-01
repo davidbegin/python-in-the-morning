@@ -1,12 +1,53 @@
 2020 - 1 - 31
 =============
 
+How do you evaluate an open source project to use for work?
+---
+  * Lets use Celery for some Thread managment
+    - I hear that Celery is a Spagetti Code base, fine
+      in the beginning, but painful down the road.
+
+
+### Open The Github:
+  - Last Commit
+  - Open Issues
+  - Open PRs
+  - Check the Pulse
+
+
+### Questions we want to answer about the project:
+  - When was the last update?
+  - are issues addressed and closed in timely fashion?
+  - hows the documentation?
+  - hows the test suite
+  - are the tests passing
+  - are the badges red
+
+
+## Celery Assessment:
+  - When was the last update?
+  - are issues addressed and closed in timely fashion?
+  - hows the documentation?
+  - hows the test suite
+  X are the tests passing
+  - are the badges red
+
+
+
 Goals
 =====
   * Learn some things
   * Have fun
   * Learn more about Futures today
 
+
+Viewer Advice
+---
+  stupac - Make sure the keyboard is hot swap because most keyboards will not have a Zeal option for switches.
+
+TODO
+====
+  * Watch this talk “The Future Is Soon!”
 
 Vim
 ===
