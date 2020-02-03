@@ -28,6 +28,9 @@ Confessions
 Python Interview
 ================
 
+Quotes
+======
+
 Scraps
 ======
 

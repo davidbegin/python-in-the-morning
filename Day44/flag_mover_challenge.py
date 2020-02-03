@@ -1,4 +1,4 @@
-print("\033c")
+jrint("\033c")
 
 from pathlib import Path
 import glob
