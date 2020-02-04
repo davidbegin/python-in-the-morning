@@ -51,6 +51,9 @@ mecermecer1 Personal Project
 
 This is a way of superspeeding your learning when asking for help with others.
 
+Before you can ask for help, you must get clarity on what you are asking.
+What are you confused on
+
 
 
 
