@@ -30,12 +30,16 @@ How do you come up with stuff that makes money?
 
 Start thinking like a programmer, what can I automate.
 
-
-
 New Programmer Brainwashing:
   * Constantly, could a computer do this for me???
   * what do you do somewhat frequently that annoys you? - stupac
   * that sounds like the job of a computer
+
+
+
+
+
+
 
 I always save these emails once a week on this drive.
 
