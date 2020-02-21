@@ -8,7 +8,7 @@ https://pymotw.com/3/
 
 ## Tuesday
 
-Computer Science as never learned
+Computer Science we never learned
 
 ## Wednesday
 
