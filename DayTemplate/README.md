@@ -4,6 +4,9 @@
 Goals
 =====
 
+Bounties
+========
+
 Viewer Questions
 ================
 
@@ -34,3 +37,5 @@ Quotes
 Scraps
 ======
 
+TODO
+====
