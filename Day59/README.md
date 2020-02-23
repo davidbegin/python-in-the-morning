@@ -32,7 +32,7 @@ TODO
 - yay -Syu timeshift timeshift-autosnap
 - one DSA question that I am working . in a sorted array having each element twice except one. find that element . find it in least time complexity
 - we came up with this idea of making a chrome extension that keeps track of all of your users so when you hover over their name it brings up their info that you wrote down so you don't forget
-- LEdarn how to use mod comments,,,,
+- Learn how to use mod comments
 - I want a brainfuck business card
 
 Book Suggestions
