@@ -4,16 +4,41 @@
 
 #### Module / Man Monday / Arch Linux Wiki
 
-https://pymotw.com/3/
+Goal: Searching for text
 
-Python Module of the week:
-- Pathlib module of the week
+#### Tools
+- grep
+- find
+- ack
+- ag
 
-Man page of the week:
-- grep, awk, find
+```
+pacman -S the_silver_searcher
 
-Arch Wiki of the week
-- https://wiki.archlinux.org/index.php/OpenSSH#Encrypted_SOCKS_tunnel
+man man
+
+man -Tpdf ag | zathura -
+```
+
+Python Module
+-------------
+
+Pathlib
+
+- https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/
+- https://treyhunner.com/2019/01/no-really-pathlib-is-great/
+- https://realpython.com/python-pathlib/
+- https://docs.python.org/3/library/pathlib.html
+
+
+Arch Wiki
+---------
+- udev
+  - https://wiki.archlinux.org/index.php/Udev
+- encrypted socks
+  - https://wiki.archlinux.org/index.php/OpenSSH#Encrypted_SOCKS_tunnel
+- environment variables:
+  - https://wiki.archlinux.org/index.php/Environment_variables
 
 
 ## Tuesday
@@ -27,7 +52,6 @@ Arch Wiki of the week
 ## Wednesday
 
 ##### Current Affairs of Python and Programming
-
 - PEPs
 - Community Projects
 - New Blog Posts
