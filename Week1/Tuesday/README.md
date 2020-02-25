@@ -7,6 +7,8 @@ Resources
 - https://www.wikiwand.com/en/Breadth-first_search
 - https://www.wikiwand.com/en/Best,_worst_and_average_case
 - https://eddmann.com/posts/depth-first-search-and-breadth-first-search-in-python/
+- https://stackabuse.com/big-o-notation-and-algorithm-analysis-with-python-examples/
+- https://wiki.python.org/moin/TimeComplexity
 
 Bounties
 ========
