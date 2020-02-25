@@ -45,10 +45,8 @@ Arch Wiki
 
 #### Computer Science we never learned
 
-- Big O
-- Tail recursion and why doesn't have it
-- Dependent types
 - https://www.wikiwand.com/en/Depth-first_search
+- with some Big-O
 
 ## Wednesday
 
@@ -75,3 +73,8 @@ Potential options:
 - https://www.youtube.com/watch?v=R2ipPgrWypI
 - https://www.youtube.com/watch?v=x-kB2o8sd5c
 - https://www.youtube.com/watch?v=OSGv2VnC0go
+
+
+Future Ideas:
+  - Tail recursion and why python doesn't have it
+  - Dependent types
