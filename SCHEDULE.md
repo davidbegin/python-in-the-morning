@@ -48,6 +48,7 @@ Arch Wiki
 - Big O
 - Tail recursion and why doesn't have it
 - Dependent types
+- https://www.wikiwand.com/en/Depth-first_search
 
 ## Wednesday
 
@@ -56,6 +57,9 @@ Arch Wiki
 - Community Projects
 - New Blog Posts
 - Internals
+
+https://www.python.org/dev/peps/pep-0519/#standard-library-changes
+https://www.python.org/dev/peps/pep-0584/
 
 ## Thursday
 

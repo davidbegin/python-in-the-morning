@@ -19,6 +19,10 @@ I HATE I HATE A HATE PRE COMMIT HOOKS
 
 Learning Python Advice:
 ---
+
+> SketchyScripts: Small scope, high stakes
+
+
 I. Pick a project, that will make you money or for a hobby you already do
 II. Set a deadline and share it with people on that date
 III. exploring the interwebs and meetups and books to HELP YOU finish your project
