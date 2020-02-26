@@ -69,10 +69,18 @@ https://www.python.org/dev/peps/pep-0584/
 
 Tech Talks, Blog Posts and Debates
 
-Potential options:
-- https://www.youtube.com/watch?v=R2ipPgrWypI
-- https://www.youtube.com/watch?v=x-kB2o8sd5c
-- https://www.youtube.com/watch?v=OSGv2VnC0go
+#### Potential options:
+- James Powell: Advanced Metaphors in Coding with Python | PyData Berlin 2017
+  - https://www.youtube.com/watch?v=R2ipPgrWypI
+- A Python Asthetic: Beauty and Why I Python
+  - https://www.youtube.com/watch?v=x-kB2o8sd5c
+- Transforming Code into Beautiful, Idiomatic Python
+  - https://www.youtube.com/watch?v=OSGv2VnC0go
+- Ned Batchelder - Big-O: How Code Slows as Data Grows - PyCon 2018
+  - https://www.youtube.com/watch?v=duvZ-2UK0fc
+
+====
+
 
 
 Future Ideas:

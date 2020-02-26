@@ -233,5 +233,4 @@ TODO
 - !topic or !agenda
 - vifm image previews
 
-
 Types of Dramatic Readings
