@@ -1,33 +1,19 @@
 # Current Week
 
-### Weekly Goals:
-- Learn about Regular expression and text searching:
-  - In unix
-  - In python
-  - From a Computer Science Perspective
-
-### Practical Applications:
-- Find all URLs in pyuthon-in-morning repo
-- Be able to Grab out all Titles and count their occurance
-- Be able to collect all Sections, like Quotes from every single day
-- Eliminate all files that match a template file
-
 ## Monday:
 
 #### Module / Man Monday / Arch Linux Wiki
 
-##  Goal: Searching for text
+Goal: Searching for text
 
-#### Unix Tools
-- fc
+#### Tools
 - grep
 - find
 - ack
 - ag
-- fd
 
 ```
-man -k | dmenu -l 30
+pacman -S the_silver_searcher
 
 man man
 
@@ -36,14 +22,31 @@ man -Tpdf ag | zathura -
 
 Python Module
 -------------
-- re - https://docs.python.org/3.9/library/re.html
+
+Pathlib
+
+- https://treyhunner.com/2018/12/why-you-should-be-using-pathlib/
+- https://treyhunner.com/2019/01/no-really-pathlib-is-great/
+- https://realpython.com/python-pathlib/
+- https://docs.python.org/3/library/pathlib.html
+
+
+Arch Wiki
+---------
+- udev
+  - https://wiki.archlinux.org/index.php/Udev
+- encrypted socks
+  - https://wiki.archlinux.org/index.php/OpenSSH#Encrypted_SOCKS_tunnel
+- environment variables:
+  - https://wiki.archlinux.org/index.php/Environment_variables
 
 
 ## Tuesday
 
 #### Computer Science we never learned
-  - regular expressions
-  - https://www.wikiwand.com/en/Regular_expression
+
+- https://www.wikiwand.com/en/Depth-first_search
+- with some Big-O
 
 ## Wednesday
 
@@ -54,6 +57,7 @@ Python Module
 - Internals
 
 https://www.python.org/dev/peps/pep-0519/#standard-library-changes
+https://www.python.org/dev/peps/pep-0584/
 
 ## Thursday
 
@@ -74,4 +78,11 @@ Tech Talks, Blog Posts and Debates
   - https://www.youtube.com/watch?v=OSGv2VnC0go
 - Ned Batchelder - Big-O: How Code Slows as Data Grows - PyCon 2018
   - https://www.youtube.com/watch?v=duvZ-2UK0fc
-- Boundaries - Gary berhardt
+
+====
+
+
+
+Future Ideas:
+  - Tail recursion and why python doesn't have it
+  - Dependent types
