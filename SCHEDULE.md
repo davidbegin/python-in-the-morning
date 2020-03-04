@@ -55,6 +55,12 @@ Python Module
 
 https://www.python.org/dev/peps/pep-0519/#standard-library-changes
 
+*This Week*
+
+- https://www.python.org/dev/peps/pep-0558/
+- https://www.python.org/dev/peps/pep-0614/
+- https://www.python.org/dev/peps/pep-0585/
+
 ## Thursday
 
 - Viewer Code / Resume Review
