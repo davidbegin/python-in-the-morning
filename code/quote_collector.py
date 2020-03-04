@@ -1,7 +1,12 @@
 from pathlib import Path
 import re
 
-# raw string or raw literal?
+def read_all_files():
+    root_dir = Path(__file__).parent.parent
+    for path in root_dir.glob("**/*"):
+        print(path)
+
+
 
 def reg101():
     # Do I need the * to match the whole file?
@@ -21,6 +26,10 @@ def reg101():
     # (?:-{3,}|={3,}\n)
 
     regex = r"(?:Quotes?).*\n[-=]{3,}\n((?:.*\n)*)(?=.*\n)[-=]{3,}\n"
+    # regex = r"Quotes\n[-=]*\n*((?:.*\n*)*)[---|===]*"
+    
+
+
     # regex = r"Quotes\n[-=]*\n*((?:.*\n*)*)[---|===]*"
 
     test_str = ("Quotes\n"
@@ -71,3 +80,4 @@ def collect_quotes():
 if __name__ == "__main__":
     # collect_quotes()
     reg101()
+    read_all_files()
