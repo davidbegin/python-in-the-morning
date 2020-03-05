@@ -6,12 +6,12 @@ Viewer Reviews
 
 - vivax3794
   - https://github.com/vivax3794/BCrushPy
-- elremingu
-  - Talk about terraform
-- isidentical
-  - https://github.com/davidbegin/pysandbox
 - stupac
   - Regex Review
+- isidentical
+  - https://github.com/davidbegin/pysandbox
+- elremingu
+  - Talk about terraform
 
 Resources
 =========
@@ -42,6 +42,9 @@ Bounties
 
 Viewer Questions
 ================
+- What is a Github Code Review?
+  - Reviewing your profile, as if you are a canidate whose
+    resume came across my desk
 
 Questions
 =========
@@ -61,6 +64,11 @@ Debates
 Confessions
 ===========
 
+Predictions
+===========
+- eventually every key will be custom
+  - Dream: describing each key should be like J Peterman produce
+
 Python Interview
 ================
 
@@ -72,3 +80,4 @@ Scraps
 
 TODO
 ====
+- Acquire a ZX81
