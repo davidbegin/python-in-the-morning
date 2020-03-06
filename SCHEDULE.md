@@ -81,3 +81,7 @@ Tech Talks, Blog Posts and Debates
 - Ned Batchelder - Big-O: How Code Slows as Data Grows - PyCon 2018
   - https://www.youtube.com/watch?v=duvZ-2UK0fc
 - Boundaries - Gary berhardt
+
+## Saturday:
+
+Guest Stream with a Javascript/Typescript/Haskell/Functional Programming/Math Nerd!
