@@ -1,0 +1,373 @@
+ - Javascript ship right away VS Haskell in school chaning everything
+Should we use foo and bar in examples?
+ When comparing languages we have to know where they are in the life cycle.
+Do people use assert in python outside of tests often?
+
+Do people use assert in python outside of tests often?
+Is using hasattr anti-duck-typing?
+
+When is the error being raised:
+- import vs runtime
+SHould user code check if library code is imoplemented in a partivular way?
+
+isidentical: LLVM is cool but however their foundation isn't
+Maths or Math
+Is Math invented or discovered?
+Why are you obssessed KDE?
+{**d1, **d2}
+is dict merging with ** pythonic?
+ArtMattDank: ive liked lubuntu because ive been able to install it on any garbage machine ive had
+
+isidentical: C++ sucks more then every language
+
+Brainfuck can be more optimized than C++
+Theres more security research, pen-testing, exploits
+hjkl
+There is no such koan. "Only One Way" is a calumny about Python originating long ago from the Perl community.
+
+userman2: i think dicts supporting | will not be used very often, and so seeing as it should not be used often, its a case of "will the side effects of possible value removed, and performance possiblities impact this use case"
+- Editor doesn't really matter
+- But its also home, and fun to make nice
+Vim can do everything, you might need to hook up some things up yourself
+- why is JS more popular than python. Cuz worse is better. True or not?
+
+When you misread some code, that is a sign, theres information in there.
+2 trains of thought:
+- I'm dumb
+  - Never think you're dumb, you just don't know things
+- This code is not explict and clear
+  - What confused about this code
+  - Do I not understand the syntax
+  - Do I not understand the intention
+  * The Problem with Syntax Sugar
+    - Nows theres 2 ways to do it,
+      now your code is not unified
+
+	* Postgresql versus MySql for your first DB
+		- Depends on the language and community
+		- First Lang is PHP - MySQL
+		- Ruby - Postgresql
+		- Python - Postgresql
+			is python more friendly to MySQL or Postgresql
+		- Postgres had some cool stickers, that NoSQL on Acid
+				- Postgres, you store arrays and JSON, and Hashes,
+				- You do make Mongo and Relational DB.
+		- Higher major version == Better projecr
+
+Haze Opinion: languages should be 100% database agnostic
+Begin's counter opinion: I agree theortically. But for
+a beginner community summort is super important.
+	* Git branching strategy
+- Is every single day an anniversery?
+
+- OOP in Python sucks
+    - levinson2504: just funny syntax for constructors
+    - Begin: tools for functional programming like map, are traps
+- Curly Braces - New Line ot Not???
+
+- Should you abandon functional in python, cuz reaons
+
+- Does everyone think get and setter patter boiler plate bad?
+There are two schools of thought about teaching computer science. We might caricature the two views this way:
+The conservative view: Computer programs have become too large and complex to encompass in a human mind. Therefore, the job of computer science education is to teach people how to discipline their work in such a way that 500 mediocre programmers can join together and produce a program that correctly meets its specification.
+The radical view: Computer programs have become too large and complex to encompass in a human mind. Therefore, the job of computer science education is to teach people how to expand their minds so that the programs can fit, by learning to think in a vocabulary of larger, more powerful, more flexible ideas than the obvious ones. Each unit of programming thought must have a big payoff in the capabilities of the program.7
+Is using MyPy, AKA type hinting un-pythonic?
+strager: MyPy sucks!!!11
+strager: Mypy gives no confidence for all projects I used it in. The type checker is too slow to iterate with. Running tests is often faster.
+Begin' Thoughts: Unit Tests Replace Types and vice-versa (for certain types)
+If you are gonna use mypy: Are you more concerened classes or built
+strager: I disagree, streamer. Show me such a test which is redundant in a statically typed language.
+strager: You could argue that your None test is still needed until the entire code base is covered by Mypy. But Mypy is not designed for 100% coverage.
+- Ruby versus Python for a total Noob
+
+Is it better to checking a potentials "class"es type, and then look for type
+or check if something is a class?
+What is the pythonista way, to check if something is a class
+
+Begin: prefers using isinstance, to converting and looking for type
+```
+def class_name(obj):
+  if isinstance(obj):
+    type(obj).__name__
+  else:
+    obj.__name__
+  klass = type(obj)
+  if klass is type:
+    obj.__name__
+  else:
+    klass.__name__
+```
+
+What is the recommened practice for managing virtualenv in Python in 2020?
+Begin Opinion: base-level of required knowledge:
+  - How do we handle our virtualenvs with JUST python
+
+Beginner:
+Seasoned:
+### Rolling Release good or bad?
+Pro:
+  - you are always pulling in small changes, that you can grok
+    instead losing a whole day every major update
+Con:
+  - OMG its unstable (Begin hears this ain't true)
+A chicken is a dinosaur: change my mind.
+Facts:
+- We don't know what sounds Dinosuars make
+- Lot of people think Dinos were covered in features
+- Laid Eggs
+- Jurassic Park Lied
+  - Foley Artist
+I can decide what animals sound like??
+
+Facts We Know:
+	* You need to store configuration
+	* One solution will not work for every use case
+We aren't looking for the configuration answer:
+	- When do we use which one
+		Questions To Ask to Determine which to use:
+			- Who is all going to edit these files?
+			- How often will they change?
+			- How complex will they be?
+			- Do we share them?
+			- Who do need to share them with?
+
+Having a default is a Good thing
+
+What do you use:
+	XML
+		-> Super verbose
+		-> you can do anything
+	YML
+		-> Comments
+		-> White space nested sucks
+	TOML
+	JSON
+		-> common API support
+	INI
+		-> Very Simple
+
+	* Pyenv
+	* Virtualenv
+	* python -m venv venv
+	* PyPi - Pie-Pie OR Pipee
+	* Flupy - Flu-pie OR Floopy
+	* aiohttp - A-Eye-O-HTTP OR ehh-O-HTTP
+- Python was very intentional
+- Python had a BDFL
+Are features bad or are humans evil?
+White-delimited is wrong
+
+## Why  switch to Linux??
+- will you deploy your code
+- more control of your comp
+### How many crutches should a beginner have?
+	* Remember, people have different git styles, people are arguning with you
+    recruit you. Git Flow, getting into the cult.
+ 		`Never Modify History Cult`
+			Haze potential Cult Member of
+			Git is History, stop changing history.
+			Some much important info is squashed and ammended away.
+		`Perfect Programmer History`
+			- Ammend to a single commit add to a commit message, each thing
+        I did, until it reached a small logical reaonable chunk.
+        Commit and push. and I would ammend, I squah, I flip squash.
+
+"Every Test in the world can pass and production can still be down"
+	- David Begin
+"Everything Fails all the Time"
+	- Werner
+
+When in doubt, go down the Git Flow Rabbit Hole, and debates.
+Choose a Git Cult if you aren't:
+	- working with others
+	- deploying to production
+Adopt Some strict git best practices around messages and branches and clean up.
+Focusing on History for yourself.
+
+First Job Random things that you need to learn:
+	* Git
+	* Postgresql/MySQL
+	* JIRA
+Git Flow Cult:
+	- handle dev branches, with production branches, and hotfixes for releases.
+	- Collaboration of a fast moving team deploying often.
+	- You become rebase expert
+Which do you like better?
+```
+try:
+    dangerous_call()
+except OSError:
+    log('OSError...')
+else:
+    after_call()
+try:
+    dangerous_call()
+    after_call()
+except OSError:
+    log('OSError...')
+```
+
+### Are EAFP Gang or LBYL Gang?
+Begin: I am switching EAFP Gang for Life!
+What happens if the condition fails:
+  * Return a default value
+  * Raise an Error
+  * Call some other function to do some work
+
+```
+# LBYL
+cool_stuff = {"weapon": "knife"}
+if "weapon" in cool_stuff:
+  return cool_stuff["weapon"]
+# EAFP
+try:
+  return cool_stuff["weapon"]
+except KeyError:
+  return None
+# Python Rouges
+return cool_stuff.get("weapon", None)
+```
+
+What does context mean in Computer Science, what does context mean in Python.
+In the Python case, it means within a setup and teardown framework.
+Meaning something happens, you enter the context, something happens when you
+leave the context.
+Scope and Closure are other words
+
+### Begin's Truth (Universal Truth)
+I know things are going to fail
+I know I am going to introduce bugs
+I know that commit messages could help pinpoint where I introduced the issue.
+
+What Git is For?
+	- Not losing your work
+	- Begin's Personal Git View: Git History to help debugging.
+
+Current Git Religon:
+		Well formatted commit messages plus jokes
+
+- Push on War
+  - push on friday
+  - push at midnight
+  - push at 6AM
+  - push all weekend
+  - push 20 times a day
+  - pushing in the mornign, pushing in the evening, pushing at suppertime
+  - if pushing is a problem on friday, then pushing is a problem at anytime.
+### When should you learn type-hinting as a python junior?
+- I don't think its too hard
+You are going to invvest a lot in learning types
+and then if you go to job without typed python:
+  - Outcome 1: your knowledge is not that useful if they don't type
+  - Outcome 2: they do type and your super valuable!
+  - Outcome 3: they don't have types and your bring in types, and you're a hero
+	* You are implementing a coroutine decorator as a library/framework creator,
+		do you prime the coroutine for your users or not?o
+		Or give an option not to Pre-prime off
+		Pros of Pre-Priming:
+			- People typically have to do less, and not think about priming
+			- People's first experience with the library/framework is less
+        ceremony at fist.
+		Cons of Pre-Priming:
+
+	* What Linter to use in Python!
+		- PEP8
+		- Black
+				- Begin
+				- Haze
+				- Spartan
+
+Will the implementation of type and classes change in python (10 years)
+When have fundamental changes in a programs object happened
+- Ruby the addition of BasicObject
+  * In python, what is the preffered CLI argument parser path these days
+    - ArgumentParser
+    - OptionParser
+    - Click
+### Debate 1
+```
+# Option 1
+meth_name = meth[0]
+# Option 2
+meth_name, _ = meth
+```
+Option 1
+	- meth can be any iterable thang
+	- it does one thing, grabs the first element, pretty explicit
+	- Con: obscures what meth is
+Option 2:
+	- implies a 2 length tuple
+	- faster
+	- Maybe: _ hey what did you throw away
+
+### Debate 2
+unittest or pytest by default?
+Pytest
+	Pros:
+		- what you will use at a company
+		- You are practicing what you will use to make money
+		- Most open source is pytest
+	Cons:
+		- its a dependency with dependencies!!
+Unitest
+	Pros:
+		- no dependency!
+	Cons:
+    - Annoying api? imo
+    - not popular
+
+What about Hypothesis
+	- Type of Testing, generating results
+	- Should be typing, with MyPy
+	- have to careful about how much test data to generate
+Additional testing, never replace unit testing, integration, acceptance testing
+Smoke Testing Definitions:
+	- Does it turn on not blow up, real basic functionality
+	- Does it do a large bredth of simple tasks without blowing, the "Basics"
+	- Does it start "smoking" when the system is pushed
+		Does it blow up under real use?
+
+## Debate 3
+
+Test Setup Preference:
+	* Single Unit Tests
+		- the method name, gives the description of the tests
+		- Its annoying making fake method names with descriptions
+			- Counter example: Rspec it "testing nil values get a default"
+				versus `nil_values_get_a_default~
+	* One Unit Tests many examples
+	* Single Until Pytest.fixtures?
+You have a group of checking lower()
+	- If one fails you stop testing the others
+If you let all run, you know the exact case where lower is working or failing
+What Context are tests running in:
+	- A CI/CD Pipeline
+	- Locally as we develop
+		- We show we all the detail failures in the code I'm working on
+		- Don't run Acceptance Tests and slow tests
+   How do you pronouce idempotent?
+    - item-potent
+    - eye-demp-po-tent
+- Whats it the best name (bonus: and syntax), for a key and value data structure:
+  - python - dict
+    - hard to say without people laughing at you
+  - ruby - hash
+     - hash means soo many things
+  - javascript - object?
+  - some language say map?
+
+- Relational Databases are a Code Smell
+
+- Regex are a code smell
+  - DougTheCoder: Without regex I would have lost many a miserable hour trying to find and reformat data and text.
+- XML, JSON, TOML, ini, YAML
+  - Post-Apocpltyic we can use one config for the rest of lives
+
+- What are commit messages for?
+  - When debugging
+
+Regex
+Rejex
+Which Regular Expression is best:
+- Perl - miguelmirq
+stupac62: Perl is great at doing anything with text, right?

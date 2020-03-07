@@ -230,5 +230,5 @@ Saturday: Typescript and Haskell Nerd - 10 AM PST
   
 Javascript was shipped after 2 weeks
   - this affects language evolution
-Hasklee was shipped after 10 years
+Haskell was shipped after 10 years
 

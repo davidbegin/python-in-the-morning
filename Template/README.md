@@ -1,7 +1,7 @@
 <DATE>
-======
+============
 
-Goals
+Resources
 =====
 
 Bounties

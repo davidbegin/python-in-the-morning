@@ -175,11 +175,16 @@ If repeating the inner loop 4 times and the outer loop 7 times results in the sa
 
 Kleene Quiz
 -----------
+
 - Kleene Star
 - Kleene Hierarchy
 - Kleene Alegebra
 - Kleene Recursion Theory
 - Kleene fixed-point theorem
+
+
+
+
 - https://www.wikiwand.com/en/Free_monoid
 - https://www.wikiwand.com/en/Intuitionism
 - https://www.wikiwand.com/en/Powerset_construction

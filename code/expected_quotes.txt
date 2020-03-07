@@ -1,0 +1,114 @@
+Length is not a virtue in a name; clarity of expression is.
+- Rob Pike
+
+"Everything is fast for small enough N"
+You do whatever want in whatever language, just have fun while you doing
+- Begin
+Speed is byproduct of efficiency
+J'SON is a name
+JSON is a object notation
+frenck: so Pythonic is adjusting to the context :)
+Elk Cloner: The program with a personality
+It will get on all your disks
+It will infiltrate your chips
+Yes, it's Cloner!
+It will stick to you like glue
+It will modify RAM too
+Send in the Cloner!
+	- Elk Cloner Poem
+
+I will need to learn all the stuff I don't know eventually
+	- David Begin
+very programming langauge is bad, and my favorite is the ones where
+im most famiilar with the ways it bad.
+  - brianlovreswords
+"All lamgauges are bad...except whatever functional langauge im learning now"
+- Zeebz91
+Crates don't exists without Gems
+  - David Begin
+
+Ruby versus Python opinion:
+  - both are fine for web
+  - both are fine for internal tools
+  - both fine for automating, devops
+  - both can be fun
+  - Ruby and Rails is a good path for a career, cuz you be
+    real productive fast, lots of work
+  - Python, we got data-science, we web, we got devops, we got AI
+
+Which community appeals to you more?
+If I was choosing:
+  - Go to meetup for each language
+  - Find a a podcast for each one
+  - Find some projects in each one
+And then see which one just feels more appealing, it gut feeling
+Begin Opinion:
+  - Gems > virtualenvs
+tryruby.org
+
+I learned vim and Ruby Koans at same time:
+# Ruby Koans
+ArtMattDank: learn everything and start by learning the concept of prioritizing things
+
+It may be harder, but soon it will be easier, once we get smarter
+ - Begin (on arch)
+  * The Skill of Senior is directly proporational to their ability
+    to balance Gold Plating with Hacks.
+    Balance between Good and Done
+	* Choosing a distro is a personal struggle, that only you can through that.
+	* Useful information makes us money, Useless information connects us
+		- David Begin
+  * The difference in a Senior and a Junior Programming, is the ability
+    to know when to go down a Rabbit Hole
+      - David Begin
+
+"Theres a lot of money in puns in programming"
+ - Begin
+	*  "i dont know anything, i just make money from programming"
+		- me
+  * Remember when you are excited about a new language feature to you, it might
+    have already scared someone else.
+  * It is super useful to do useless things, just don't do them for a company, or to
+    be the defacto open source solution.
+  * I just add things to .gitignore as git complains about them
+        - Haze
+  Concurrency is about dealing with lots of things at once.
+  Parallelism is about doing lots of things at once.
+  Not the same, but related.
+  One is about structure, one is about execution.
+  Concurrency provides a way to structure a solution
+  to solve a problem that may (but not necessarily) be parallelizable.
+    - Rob Pike, Co-inventor of the Go language
+What are the two hardest things in programming:
+ There are two major sins in science:
+    - using different words to mean the same thing
+    - using one word to mean different things.
+      - Professor Imre Simon
+“For every complex problem there is an answer that is clear, simple, and wrong.”
+  - HL Mencken
+
+ “All models are wrong. Some are useful.”
+  - George Box
+What are the 3 qualities of a good programmer according to Larry Wall?
+  - Laziness
+  - Impatience
+  - Hubris
+We have a problem:
+  - Ugh I don't want to have to do this everytime
+  - Ugh, I just want it to work now
+  - I can solve anything
+
+Question: How do you learn NOT to drop a production database?
+Answer:   Drop a production database=====
+
+DougTheCoder: @gouzzz Second is when you are completely stuck and unable to work, find the smallest possible task that will give you a small reward / sense of accomplishment and do it. It's when you are focused on how huge a project is that you become totally blocked.
+
+DougTheCoder: @PinkFlufflyLlama There's no problem a good Regex can't solve LUL :P
+vivax3794: "the computer is never wrong, only the developer." -vivax 2019
+
+isidentical: pythons packaging isn't the best one because of linux distros packagin python packages in their own package managers
+
+HazeAnderson: I read someone explaining that Java is essentially a language with no verbs, only nouns (and the VERY end there is a verb but you can't see it)
+
+If you program you have to deal with regular expressions at sometime
+- David Begin
