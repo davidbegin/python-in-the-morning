@@ -175,7 +175,6 @@ If repeating the inner loop 4 times and the outer loop 7 times results in the sa
 
 Kleene Quiz
 -----------
-
 - Kleene Star
 - Kleene Hierarchy
 - Kleene Alegebra
