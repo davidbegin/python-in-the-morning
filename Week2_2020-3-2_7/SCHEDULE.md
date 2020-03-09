@@ -1,54 +1,49 @@
-# Current Week 2020-2-9 - 2020-2-13
+# Current Week
 
 ### Weekly Goals:
-- Get our Minimal bot running and cleaned up
-- Learn about IRC
-- TCP/UDP Lessons
-- Get more familiarity with various unix networking tools
-  - lsof
-  - ss
-  - ip
-  - netcat
-- Learn about the Socket Library
-
-### Begin Streaming Goals
-- Learn to write quotes in the correct syntax
+- Learn about Regular expression and text searching:
+  - In unix
+  - In python
+  - From a Computer Science Perspective
 
 ### Practical Applications:
-- Have a PEP and Wikibot
-- Have something that grabs out quotes and debates and posts them in chat
-- Have a better way to send things to the chat through the power of linux
-  - Copy something
-  - Hit a command that says send the current result to twitch chat
-  - this would probably be calling a script, which would ask for
-    the current paste buffer and then would send it to chat
+- Find all URLs in pyuthon-in-morning repo
+- Be able to Grab out all Titles and count their occurance
+- Be able to collect all Sections, like Quotes from every single day
+- Eliminate all files that match a template file
 
 ## Monday:
 
 #### Module / Man Monday / Arch Linux Wiki
 
-##  Goal: learn more about unix domain sockets
+##  Goal: Searching for text
 
 #### Unix Tools
+- fc
+- grep
+- find
+- ack
+- ag
+- fd
 
 ```
-man lsof
-man nc
-man ss
-man ip
+man -k | dmenu -l 30
+
+man man
+
+man -Tpdf ag | zathura -
 ```
 
 Python Module
 -------------
-socket - https://docs.python.org/3.8/library/socket.html
+- re - https://docs.python.org/3.9/library/re.html
+
 
 ## Tuesday
 
 #### Computer Science we never learned
-
-Internet Protocol Suite
-
-https://www.wikiwand.com/en/Internet_protocol_suite
+  - regular expressions
+  - https://www.wikiwand.com/en/Regular_expression
 
 ## Wednesday
 
@@ -57,6 +52,8 @@ https://www.wikiwand.com/en/Internet_protocol_suite
 - Community Projects
 - New Blog Posts
 - Internals
+
+https://www.python.org/dev/peps/pep-0519/#standard-library-changes
 
 *This Week*
 
@@ -84,3 +81,7 @@ Tech Talks, Blog Posts and Debates
 - Ned Batchelder - Big-O: How Code Slows as Data Grows - PyCon 2018
   - https://www.youtube.com/watch?v=duvZ-2UK0fc
 - Boundaries - Gary berhardt
+
+## Saturday:
+
+Guest Stream with a Javascript/Typescript/Haskell/Functional Programming/Math Nerd!
