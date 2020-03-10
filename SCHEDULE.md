@@ -34,7 +34,7 @@
 
 ### Unix Tools
 
-```
+```bash
 man lsof
 man nc
 man ss
@@ -90,4 +90,3 @@ Tech Talks, Blog Posts and Debates
   - <https://www.youtube.com/watch?v=duvZ-2UK0fc>
 - Boundaries - Gary berhardt
 - <https://www.youtube.com/watch?v=MCs5OvhV9S4&feature=youtu.be>
-

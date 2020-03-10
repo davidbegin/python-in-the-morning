@@ -1,10 +1,9 @@
-Proposed Weekly Python in the Morning Schedule
-==============================================
+# Proposed Weekly Python in the Morning Schedule
 
-## Monday: The Past
+## Monday The Past
 
 Module / Man Monday / Arch Linux
-https://pymotw.com/3/
+<https://pymotw.com/3/>
 
 ## Tuesday: Math and Science
 
@@ -13,6 +12,7 @@ Computer Science We never learned
 ## Wednesday: The Future
 
 Current Affairs of Python:
+
 - PEPs
 - Community Projects
 - New Blog Posts
