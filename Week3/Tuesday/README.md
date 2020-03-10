@@ -27,6 +27,15 @@ Resources
 - https://www.wikiwand.com/en/Transmission_Control_Protocol
 - https://www.wikiwand.com/en/Transport_layer
 - https://www.wikiwand.com/en/Unix_domain_socket
+- https://www.wikiwand.com/en/Inode
+- https://www.revsys.com/tidbits/dataclasses-and-attrs-when-and-why/
+- https://www.howtogeek.com/465350/everything-you-ever-wanted-to-know-about-inodes-on-linux/
+- https://github.com/satwikkansal/wtfpython#-strings-can-be-tricky-sometimes
+- https://www.guru99.com/tcp-vs-udp-understanding-the-difference.html
+- https://blogs.bmc.com/wp-content/uploads/2018/06/osi-model-7-layers-804x1024.png
+
+
+
 
 Bounties
 ========
