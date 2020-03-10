@@ -20,14 +20,10 @@ QUOTES_PATTERN = (
     r"(?:.*?[Qq]uotes.*?\n)(?:^(?:-|=){3,}$\n)((?:.*?\n)+?)(?:(?:(?:.*?\n)(?:-|=){3,}))"
 )
 
-DEBATES_PATTERN = (
-    r"(?:.*?[Dd]ebates.*?\n)(?:^(?:-|=){3,}$\n)((?:.*?\n)+?)(?:(?:(?:.*?\n)(?:-|=){3,}))"
-)
+DEBATES_PATTERN = r"(?:.*?[Dd]ebates.*?\n)(?:^(?:-|=){3,}$\n)((?:.*?\n)+?)(?:(?:(?:.*?\n)(?:-|=){3,}))"
 
-HEADER_SEARCHES = {
-    "quotes": QUOTES_PATTERN,
-    "debates": DEBATES_PATTERN
-}
+HEADER_SEARCHES = {"quotes": QUOTES_PATTERN, "debates": DEBATES_PATTERN}
+
 
 def parse_options() -> dict:
     parser = argparse.ArgumentParser(
@@ -48,10 +44,7 @@ def parse_options() -> dict:
         help="Regex pattern to match.",
     )
     parser.add_argument(
-        "--header",
-        dest="header",
-        type=str,
-        help="Header to match on",
+        "--header", dest="header", type=str, help="Header to match on",
     )
     return parser.parse_args()
 
@@ -68,13 +61,13 @@ def parse_contents_for_pattern(regex: re.compile, contents: str) -> str:
 # Can we refactor this
 def search_recursively(folder_path: Path, regex: re.compile) -> dict:
     results = []
-    
+
     for file_to_search in folder_path.glob("**/*.md"):
         if found_text := parse_contents_for_pattern(regex, file_to_search.read_text()):
             results.extend(
-                    [ result for result in found_text.split("\n\n") if result.strip() ]
+                [result for result in found_text.split("\n\n") if result.strip()]
             )
-    return  results
+    return results
 
 
 # lines = bigstring.split()

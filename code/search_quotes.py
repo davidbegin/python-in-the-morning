@@ -63,8 +63,6 @@ def parse_contents_for_pattern(regex: re.compile, contents: str) -> str:
     return result
 
 
-
-
 # Do we want this to continue to just call read_text()
 # the method name makes sense in the current contextr
 # but why don't we just search text
@@ -78,11 +76,11 @@ def parse_contents_for_pattern(regex: re.compile, contents: str) -> str:
 def search_recursively(folder_path: Path, regex: re.compile) -> dict:
     # Is there a way to do this without appending to a Dict
     results = {}
-    
+
     # Why are creating the list right away?
     # How Pathlib biz!
     files_to_search = list(folder_path.glob("**/*.md"))
-    
+
     # file_to_search might be a lil to long of var name
     # Poll:
     #   - Better var names
