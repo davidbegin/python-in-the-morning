@@ -1,6 +1,5 @@
-Today in history: 2020 - 
+Today in history: 2020 -
 ===============================
 
-
 Goals
-=====
+-----

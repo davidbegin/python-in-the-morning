@@ -1,41 +1,27 @@
-<DATE>
-============
+# DATE
 
-Resources
-=====
+## Resources
 
-Bounties
-========
+## Bounties
 
-Viewer Questions
-================
+## Viewer Questions
 
-Questions
-=========
+## Questions
 
-Learnings
-=========
+## Learnings
 
-Ponderings
-==========
+## Ponderings
 
-Opinions
-========
+## Opinions
 
-Debates
-=======
+## Debates
 
-Confessions
-===========
+## Confessions
 
-Python Interview
-================
+## Python Interview
 
-Quotes
-======
+## Quotes
 
-Scraps
-======
+## Scraps
 
-TODO
-====
+## TODO
