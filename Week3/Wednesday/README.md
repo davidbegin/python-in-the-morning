@@ -1,6 +1,6 @@
 # 2020 - 3 - 11
 
-Future of Python, How do Languages evolve !schedule !github
+Future of Python, How do Languages evolve !schedule !github what's new in your language???
 
 ## Resources
 
@@ -10,6 +10,16 @@ Future of Python, How do Languages evolve !schedule !github
 - <https://mail.python.org/archives/list/python-dev@python.org/>
 
 ## Bounties
+
+### What's New In
+
+- Ruby:
+- Rust:
+- Elixir:
+- JS:
+- PHP:
+- Haskell:
+- INSERT_YOUR_LANGUAGE:
 
 ## Viewer Questions
 
