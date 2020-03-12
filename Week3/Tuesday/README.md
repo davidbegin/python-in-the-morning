@@ -189,4 +189,4 @@ artificially down
   - GNU Stow
 - The idiot brain
 - <https://www.youtube.com/watch?v=MCs5OvhV9S4&feature=youtu.be>
-- Greatly improve asciicibe program
+- Greatly improve asciicube program

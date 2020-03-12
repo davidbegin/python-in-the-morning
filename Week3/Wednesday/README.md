@@ -173,15 +173,13 @@ This PR is controversial, you cannot simply approve it with no message.
 
 I'm strongly opposed to this change.
 
-PEP 523 does not specify what the semantics of changing the
-interpreter frame evaluator actually is
-Is the VM obliged to call the new interpreter?
-What happens if the custom evaluator leaves the VM in a inconsistent state?
-Does the VM have to roll back any speculative optimisations it has made?
-What happens if it the evaluator is changed multiple times by different modules?
-What if the evaluator is changed when a coroutine or generator is suspended,
-or in another thread?
-I could go on...
+PEP 523 does not specify what the semantics of changing the interpreter frame
+evaluator actually is Is the VM obliged to call the new interpreter?  What
+happens if the custom evaluator leaves the VM in a inconsistent state?  Does
+the VM have to roll back any speculative optimisations it has made?  What
+happens if it the evaluator is changed multiple times by different modules?
+What if the evaluator is changed when a coroutine or generator is suspended, or
+in another thread?  I could go on...
 
 IMO this punches a big hole in the Python execution model, but provides no benefit.
 
@@ -277,10 +275,10 @@ The Core of PEP 523:
 
 - Is this fixing backwards compatibility or introducing a new hole?
 
-Adding getters or setters for something that was previously doable that we accidentally
-took away from users is not an expansion of semantics;
-it's fixing a backwards-compatibility break in a way
-that lets us keep the goal of making PyInterpreterState opaque.
+Adding getters or setters for something that was previously doable that we
+accidentally took away from users is not an expansion of semantics; it's fixing
+a backwards-compatibility break in a way that lets us keep the goal of making
+PyInterpreterState opaque.
 
 I'm considering this issue at a stalemate and so I'm going to loop in python-dev
 to help settle this.
@@ -301,6 +299,7 @@ You want friends who you disagree with on a bunch of stuff
 
 in vim how to you connvert a multiline into single line
 
+
 ## Confessions
 
 ## Python Interview
@@ -312,8 +311,9 @@ in vim how to you connvert a multiline into single line
 ## TODO
 
 - fix nightbot
-- <https://www.youtube.com/watch?v=MJBVA4LeJKA>
+- <[Manage Your Dotfiles With Style!](https://www.youtube.com/watch?v=MJBVA4LeJKA)>
 - Friday talk Bottlerocket
-- <https://nikgrozev.com/2013/12/10/monads-in-15-minutes/>
-- <https://blog.jetbrains.com/pycharm/2017/03/inside-the-debugger-interview-with-elizaveta-shashkova/>
-- Review Thursday: <https://gist.github.com/isidentical/7d3f8110fdfc53bb94829b0b63729139>
+- [Monads in 15 minutes](https://nikgrozev.com/2013/12/10/monads-in-15-minutes/)
+- [Inside the Debugger: Interview with Elizaveta Shashkova | PyCharm Blog
+](https://blog.jetbrains.com/pycharm/2017/03/inside-the-debugger-interview-with-elizaveta-shashkova/)
+- Review Thursday: [Runtime python bytecode optimizer](https://gist.github.com/isidentical/7d3f8110fdfc53bb94829b0b63729139)
