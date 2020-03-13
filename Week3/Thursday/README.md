@@ -69,11 +69,13 @@ simultaneously presenting ourselves in the best position to make $$$$$$.
 
 ## Learnings
 
-strager: vivax, I think that logger.exception outside an explicit except block is a bad idea. Pass exc_info explicitly.
+strager: vivax, I think that logger.exception outside an explicit except block
+is a bad idea. Pass exc_info explicitly.
 
-BIGFATOROPERATOR is \|. It's called the alternation operator. In PCRE, it's plain |. It's escaped in Vim/ex because | is used elsewhere for general commands
+BIGFATOROPERATOR is \|. It's called the alternation operator. In PCRE, it's
+plain |. It's escaped in Vim/ex because | is used elsewhere for general commands
 
-- use :echomsg to explicitly write a message
+c use :echomsg to explicitly write a message
 
 ## Ponderings
 
@@ -111,10 +113,13 @@ We want to practice Good practices always
 
 top rankings
 
+/vote
 ytop
 htop
 gotop
 top
+
+!so beginbot
 
 freedomdao: it's a very frustrating problem . Recently someone bought a
 corporation that uses the platform i build with. they decided to use corporation
@@ -147,8 +152,13 @@ I haven't touched Chef since I met Terraform
 - sample_config.json
 - config.example.json
 - dotenv might cool to explore - very useful - 12 factor kids
-
 for and else
 
 if the loop finishes run the else, only feels right, if the loops goal
    is to find something
+
+!so beginbot
+!so beginbotbot
+!so ArtMattDank
+
+/clear
