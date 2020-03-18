@@ -10,9 +10,9 @@ Goals
 
 - Understand the current conversation around PEP-585
   - Type Hinting Generics In Standard Collections
-  - <https://www.python.org/dev/peps/pep-0585/>
 - Ponder the evolution and hype of types
+- Try to understand Python's history with Typing
 - Compare Python to Other Languages
-- Learn Somethings
+- Learn Things
 - Improve our Twitch/Vim Integration
 - Have Fun
