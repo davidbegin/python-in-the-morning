@@ -1,9 +1,5 @@
 # Twitch / Vim Chat Integration
 
-CoolCat
-CoolCat
-CoolCat
-
 ```vimrc
 Send msg
 <leader>tw
@@ -27,5 +23,14 @@ Looks for and decrypts the last Rot13 messages
 <leader>rr
 
 # TODO: Create one that looks in the last 20 rot13
-<leader>rr
+<leader>ra
+
+# TODO: Create command to get last X messages
+
+# TODO: Create command to search in Dmenu by User
+
+# Handle links for Rot13
+
+# Rot Detector
+
 ```
