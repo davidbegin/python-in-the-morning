@@ -75,3 +75,12 @@ hazeanderson: screens is better for "daemon" like processes
     - Rules of harmony from back in the day
     - and all chord progressions written with it sound good
     - 2 -> 5, 7, 1
+
+```vimrc
+function! RunMake()
+  :exe "!tmux send -t 1 make Enter"
+  :exe "!tmux send -t 0 Enter k"
+endfunction
+
+autocmd BufWritePost other_file.txt :call RunMake()
+```

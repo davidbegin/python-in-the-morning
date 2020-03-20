@@ -1,2 +1,2 @@
 main:
-	@echo date
+	@date | tee datefile.txt
