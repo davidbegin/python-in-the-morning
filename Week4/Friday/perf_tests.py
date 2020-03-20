@@ -2,7 +2,6 @@ import timeit
 import array
 
 print('\033c')
-print('\033c')
 print("\n\t\t\033[36;1;6;4mPerf Tests!\033[0m\n\n")
 
 

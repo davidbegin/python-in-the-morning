@@ -32,5 +32,4 @@ Looks for and decrypts the last Rot13 messages
 # Handle links for Rot13
 
 # Rot Detector
-
 ```
