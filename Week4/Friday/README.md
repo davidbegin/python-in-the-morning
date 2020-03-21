@@ -90,6 +90,8 @@ B
 hazeanderson: ok ... is zsh better than bash these days?
 hazeanderson: I was first introduced to zsh back in 1998 but it wasn't so hot then
 
+Should we change chord progressions to be Zero-indexed
+
 ## Confessions
 
 ## Python Interview

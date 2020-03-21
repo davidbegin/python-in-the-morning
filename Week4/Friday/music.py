@@ -6,6 +6,8 @@ import mingus.core.notes as notes
 import mingus.core.scales as scales
 import mingus
 
+from mingus.midi import fluidsynth
+
 # Fux / Bach Rules 
 CLASSICAL_HARMONY = {
         1: [2, 3, 4, 5, 6, 7],
@@ -35,7 +37,7 @@ def chord_fmt(chord, chord_position):
 
 
 def progress(chord_position):
-    next_chord_int = random.choice(CLASSICAL_HARMONY[Chord_position])
+    next_chord_int = random.choice(CLASSICAL_HARMONY[chord_position])
     next_chord = scale_notes[next_chord_int - 1]
     print(f"{roman_chord_fmt(next_chord_int)}: {chord_fmt(next_chord, next_chord_int)}")
     return next_chord, next_chord_int
