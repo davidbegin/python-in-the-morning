@@ -1,12 +1,20 @@
 import random
+
+
+
 import roman
 import mingus.core.progressions as progressions
 import mingus.core.chords as chords
 import mingus.core.notes as notes
 import mingus.core.scales as scales
+from mingus.containers.note_container import NoteContainer
+
 import mingus
 
-from mingus.midi import fluidsynth
+from mingus.midi.midi_file_out import MidiFile as MidiFileOut
+from mingus.midi.midi_file_out import write_NoteContainer
+
+
 
 # Fux / Bach Rules 
 CLASSICAL_HARMONY = {
@@ -61,3 +69,9 @@ if __name__ ==  "__main__":
         song.append(next_chord)
         if len(song) % 2 == 0 and next_chord_int in [1,6]:
             break
+
+    # fluidsynth.play_Note(10)
+    breakpoint()
+
+    nc = NoteContainer(["A", "C", "E"])
+    write_NoteContainer("test.mid", nc)

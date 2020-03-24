@@ -123,11 +123,11 @@ Bounties
 
 Viewer Questions
 ================
+
 - bobboross0: Do you konw what algo it uses for the pattern match ?
 - haskell useful in bioinformatics ??
 - haskell versus elixir
   - elixir types have nothing on Haskell
-  - 
 - livecoding: better Q about currying is why bother not providing all args at once
   - 
 
@@ -150,11 +150,19 @@ standard axiomatic set theory ZFC
 
 Learnings
 =========
+
 - reification (reify)
-  - The type by 
+  - The type by
+  - containr
+
 - Monads are algebraic structures
   - Algebraic?????
+```typescript
+class List<A> {
+}
 
+const myList = new List('string')
+```
   Alegebra is a class (not a code class)
 
   Abstract Alegebra
@@ -168,15 +176,16 @@ Zach's Math Pitch
 =================
 - 
 - I only need one: https://www.wikiwand.com/en/Principia_Mathematica
+- Theres a hotter book by Godel
 
 Ponderings
 ==========
 
 - Why Haskell likes it one file?
 
-
 Opinions
 ========
+
 ZazH: one compontent per file seems like overkill
 
 Learning one language helps you with other langs
@@ -192,8 +201,10 @@ WE don't learn abstract
 
 Abstract Alegebra
 =================
+
 - useful for programming
-- interfaces of AA, are similiar programming, API, contract
+
+- interfaces of AA, are similar programming, API, contract
   - numerical equations in the wild, what are the laws
     - 2 + 2
     - 100 - 19
@@ -301,7 +312,7 @@ Haskell Selling Points
 - everything is curried
 - any binary operator can be infix
 - Everything operator is a function
-- Zach at checkout
+- Code: Zach at checkout
 
 
 - Type constructor - like a function at the type level?
@@ -323,7 +334,7 @@ the type of type is Metaclass aka kind?
 
 - Not knowing the type of a parameter greatly limits the set
   of operations that can be performed on a term of that type.
-  - Begin Speak: The more we know, the more wee can do safely
+  - Begin Speak: The more we know, the more we can do safely
 
 
 

@@ -1,7 +1,7 @@
 # Twitch / Vim Chat Integration
 
 ```vimrc
-Send msg
+Fraq zft
 <leader>tw
 
 Copy last 5 msgs
