@@ -1,5 +1,50 @@
 # Twitch / Vim Chat Integration
 
+## How does this work
+
+2 Commands written in python, expose them in my /bin:
+
+beginchat
+
+pulls the chat
+
+beginbot
+
+posts to chat
+
+3 parts:
+
+- Python programs
+- Bash aliases
+- Vim Shortcuts
+
+vim-shortcuts
+
+```vimrc
+function! s:PostChat()
+  let s:chat=system('beginchat')
+  let @+ = s:chat
+endfunction
+
+:nnoremap <leader>tw :call <SID>SendToTwitch()<cr>
+:vnoremap <leader>tw :call <SID>SendToTwitch()<cr>
+
+function! s:SendToTwitch()
+  let s:msg=getline('.')
+  " Escape "'s or we won't be able to send lines with "
+  let s:msg=substitute(s:msg, '"', '\\\"', '')
+  let s:regexForUrl='[a-z]*:\/\/[^ >,;)]*'
+
+  let s:uri=matchstr(s:msg, s:regexForUrl)
+
+  if len(s:uri)>0
+      let s:twitch_call=system('beginbot " ' .  s:uri. '"')
+  else
+      let s:twitch_call=system('beginbot " ' .  s:msg . '"')
+  endif
+endfunction
+```
+
 ```vimrc
 Fraq zft
 <leader>tw
