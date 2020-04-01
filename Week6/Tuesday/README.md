@@ -18,6 +18,16 @@ Computer Science we never learned: How Unix Pipes are implementated
 
 ## Viewer Questions
 
+What do I work in:
+
+- Ruby
+- Go
+- Groovy -> Jenkins
+- Javascript/Typescript
+- Bash
+- Python
+- Terraform
+
 diogoantonio: how to create a game in Python?
 pygame
 
@@ -53,7 +63,7 @@ gorillatv: <https://github.com/TjayNL/dotfiles>
 - Docker for Mac Sucks! - You can burn your legs
 - Hardware too expensive
 - Opensource
-- I plan on programming, sitting on a computer, having fun with
+k I plan on programming, sitting on a computer, having fun with
 tech for the next 300 years, so I want to time learning fundamentals,
 how things work, customizing stuff, building my home
 - Arch
@@ -135,6 +145,13 @@ Glen Gloud
 
 - Other screen -> Nature video -> AQ -> Tmatrix -> Pleasant
 
+The process of updating your dotfiles:
+
+- I go to make some changes,
+- I discover problems
+- cruft
+- repeated aliases
+
 ## Million Dollar Ideas
 
 BASICCC
@@ -184,7 +201,6 @@ stupac62: @lincolntx google search tip: [programming language] [package/library]
   - What your new theory
 
 I wanna a build a pokemon clone
-
 I want to create a character
 
 ## Scraps
@@ -192,11 +208,6 @@ I want to create a character
 ## TODO
 
 - More work on beginwiki
-
-I go to make some changes,
-I discover problems
-cruft
-repeated aliases
 
 krystalgamer: my dude you can ditch tmux, if your vim version already supports
 "!term"
@@ -207,12 +218,3 @@ vim versus neovim
 stupac62:
 <https://gitlab.com/mccroden/dotfiles/-/blob/master/nvim/.config/nvim/init.vim>
 start around line 667. very end
-
-Ruby
-Go
-Groovy -> Jenkins
-Javascript/Typescript
-Bash
-Python
-Terraform
-
