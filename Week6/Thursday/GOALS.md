@@ -1,16 +1,12 @@
-Today in history: 2020 - 4 - 1
+Today in history: 2020 - 4 - 2
 ==============================
 
-1976 - Apple Inc. is formed by
-Steve Jobs, Steve Wozniak, and Ronald Wayne
-in Cupertino, California, USA.
+1989 - ASUS corporation was founded.
 
 Goals
 -----
 
-- Catch up on the state of python
-  - <https://www.python.org/dev/peps/pep-0616/>
-  - String methods to remove prefixes and suffixes
+- Start making music videos
 - Learn more Imagemagick
 - Maybe learn how Unix Pipes are implemented?
 - Improve the songwriting ability of our bot
