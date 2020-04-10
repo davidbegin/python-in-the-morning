@@ -1,0 +1,9 @@
+- Add tiers for sound affect
+- Improve options for adding Effects
+- Whatever wackiness comes up
+- Maybe Improve Sandberg Hit Bot
+  - Song Writing
+  - Album Art
+  - Music Video
+- Learn Something
+- Have Fun!

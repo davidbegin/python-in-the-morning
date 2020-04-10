@@ -7,7 +7,9 @@
   - Learn more about ImageMagick
 - Continue working on our Twitch-Chat/OBS/Vim/Bash integration
 - Improve our Vim
-  - ???
+  - Text Objects
+  - ciw
+  - Inserting New Lines
 - Improve our Tmux
   - ???
 - Improve our Command Line skillz

@@ -2,7 +2,6 @@
 
 Turning Python, FFMPEG, and ImageMagick into randomly generated Music Videos
 
-
 ## Life Goals
 
 Master these libraries
