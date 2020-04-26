@@ -2,11 +2,13 @@
 
 ## Bugs
 
-- You can give anyone props
-
 - Saving invalid commands for SFX requests
 
-- looks like perms for user is broken
+## Refactor
+
+- Better logging around when we are saving and deleting from the DB
+- STOP having real users, and hitting really "Databases" in tests
+- Replacing search with get
 
 ## Features
 
@@ -31,12 +33,6 @@
   - Highlight???
 
 - Quick colorscheme command
-
-## Refactor
-
-- Better logging around when we are saving and deleting from the DB
-- STOP having real users, and hitting really "Databases" in tests
-- Replacing search with get
 
 ## Potential Fixed
 
