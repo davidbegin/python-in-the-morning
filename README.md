@@ -1,9 +1,5 @@
 # Python in the morning
 
-😀
-😃
-😘
-
 All Notes taken from my morning streams,
 where we attempt to improve our Programming skills:
 <https://www.twitch.tv/beginbot>

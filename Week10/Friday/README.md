@@ -1,11 +1,21 @@
 # 2020 - 5 - 1
 
-## Sev-0
+- Keep Working Through Random for all Commands
+- Improve Web Interface
+- Make snorlax package
+- Maybe work on volume thang
+- More info to make it simpler
+- Make sure all are in a transaction
+- Build a TMUX thang for all the servers
+- Rename and rethink Perms parser
+- flash problems on screen
 
-Give is not always working
-Or is reporting wrong when giving to invalid users
+- Build a TMUX thang for all the servers
 
-!give snorlax spfar
+ctrl-p ->
+ctrl-t
+
+Go to the test file version
 
 ## New Commands
 
