@@ -1,9 +1,47 @@
 # 2020 - 5 - 6
 
+## Improvements
+
+Silence a User:
+
+- Viewer Vote to Silence
+- StreamGod Silence
+- Beginbot silence though i3->dmenu->vim
+
+- Slowdown for users
+
+- Bankrupt and remove all sounds of a USer
+  -> hook the market to voting, and removing
+
+- save who adds commands, and then, if people hate them, that affects their karma.
+
+- How do we have the market persist
+
+- Work on revolution
+- Update sent presentation
+
+Users have Health
+if you hate user
+they lose health
+
+Stream Gods can revive
+I can remove all health
+kill
+revive
+
+something must persist
+
+refactor all the models
+find all places without transactions
+we should rap update
+
 ## Good News
 
 - Order 4 New Cubes!!!
 - Improved Requests interface, need to finish
+
+artmattdank: also begin when you reset the database between each streams, dont
+delete the price of the sounds, just cut them in half
 
 ## Workflow improvements
 
@@ -104,6 +142,14 @@ Why?
 - Make Money
 - Have Fun
 
+## Beginbot
+
+Current Job was python
+microservice backend stuff
+backendy/devopsy
+serverless
+nano-framework
+
 ## Questions
 
 ## Learnings
@@ -114,7 +160,30 @@ Why?
 
 ## Debates
 
+Saying its hard to exit is the silliest reason not use something.
+
+Do you look at Code as craft, learning your tools.
+
+I'm become a wood worker, I could say circle saw is too hard
+
 ## Confessions
+
+How did I get into Cubing
+
+PDX Ruby
+They gave out cubes!
+So I had cube
+
+I couldn't sleep for like 3 days.
+It was soooo fun
+CFOP
+Algs
+Explore the Cube
+
+Jazz Improv
+Improv on a Standard
+It's psycial
+pattern matching
 
 ## Python Interview
 
@@ -123,3 +192,11 @@ Why?
 ## Scraps
 
 ## TODO
+
+## Zen Cubing
+
+Setup 10 Cubes all Mixed Up
+
+Deep Breathes in between, slow and in rhythm looking ahead
+
+Brian Eno
