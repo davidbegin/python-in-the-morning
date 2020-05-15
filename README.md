@@ -7,9 +7,6 @@ where we attempt to improve our Programming skills:
 This repo contains Code, Notes, Ramblings,
 and Performance Tests from my morning Python Learning Sessions.
 
-The first 16 days were unorganized so they are all just dumped into [Days 1-16 Folder](Days1-16/)
-From here on out every Day will have a its own folder.
-
 ## Participating
 
 Everyday, there will be a PR opened with the Days code, test,
