@@ -2,42 +2,9 @@
 
 ## TODO
 
-!teachme
-
 Cube Times:
 
 - Save cube times
-
-News Story Feature:
-
-- More info for news stories
-- Hook Up Coup to Stories
-
-biged_twitch: !discord
-crazytech44: love it love it 👌👌
-
-stupac62: @beginbot <https://www.zazzle.com/archlinux+gifts>
-jsnmtr: get a non-copyrighted picture of The Gateway Arch lol
-cykablondes: !me
-whatsinmyopsec: <https://www.zazzle.com/arch_linux_terminal_high_top_sneakers-256913944532883604>
-whatsinmyopsec: how could u not want this
-cykablondes: !perms kapp
-
-!wtf
-!teachme
-
-## Suggestion
-
-!soundeffect 4ubQWiIfGNc things 03:23 03:25
-!things
-!add_perms things nomorequity
-
-Postgresql
-
-nomorequity: yes
-jsnmtr: !me
-jsnmtr: !police
-cykablondes: should put the timer in the ticker
 
 Documentation:
 
@@ -46,17 +13,29 @@ Documentation:
   - Revolution Doc
   - Main Doc
 
-Revolution Fixes:
+## News Story Feature
 
-- Make Sure Coups Costs Money
+- More info for news stories
+- Hook Up Coup to Stories
 - More info about what happened
 
-Bot Rights and Restrictions:
+Scenarios:
+
+- Richest User Cool Points
+- Richest User Street Cred
+- Most Expensive Command
+- Coup
+
+## Bot Rights and Restrictions
 
 - Bot registration
 - Bot per user, the entrance fee, is you have to build yourself
 
----
+## Ideas
+
+- Make a Way Revolutionaries can come up with new governments
+
+## Musings
 
 Don't worry about interviews
 Interviews are a silly broken process
