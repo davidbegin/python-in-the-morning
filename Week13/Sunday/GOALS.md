@@ -1,12 +1,14 @@
 # Goals / Dreams / Visions
 
-- Program Python
+- Fix the many Bugs
 
-- Tmux/Vim/Twitch improvements
+- Fix / Refactor Breaking News
 
-- Balance Economy!
+- Build Notification Center
 
-- Finish features/Fix Bugs
+- Save cube times, with !cubed
+
+- Build System to Half the prices
 
 - Learn Some Things
 
