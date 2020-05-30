@@ -1,10 +1,26 @@
 # 2020 - 5 - 28
 
+## Exposing User Data
+
 ## Stream Life
+
+!dropeffect arbysboys 8
 
 - Working on Common Questions
 - Topics People Asked Me About
 - Share my work in progress, with subscribers
+
+whatsinmyopsec: !soundeffect CC5ca6Hsb2Q whatsinmyopsec 2:05 2:10
+
+
+
+!requests
+!approve 1
+python fake_bot.py -m "\!soundeffect CC5ca6Hsb2Q whatsinmyopsec 2:05 2:10" -u whatsinmyopsec
+
+Year-Oh
+Yo-Shi
+
 
 ## IASIP FIX
 
@@ -152,11 +168,23 @@ Twitch Practice:
 
 !dropeffect countoren
 
+zanuss: @Lan_Four Yeah lol
+zanuss: Begin, make a game where we can guess as many sounds in the database as possible
+zanuss: nononono, not the total, the names
+
 ## Bounties
 
 ## Advice
 
 ## Opinions
+
+endlessmike133: i get motivated to do a project but then i find someone has
+already done it 100 times better. i was thinking of building a cli image viewing
+app then i found feh and got demotivated.
+beginbot: YOU ARE NEW, WHY DO YOU THINK YOU'LL THE BEST EVER
+THATS ALL EGO TALK
+WELCOME TO PROGRAMMER
+GET USED TO AN IDIOT
 
 Person: I don't know what project to work on
 begin:  Excellent, we need to work on the skill of
@@ -181,7 +209,6 @@ Basketball == Programming
 Programming == Physical Fitness
 
 Whats the final Goal:
-  - 
 
 I know nothing about competetive programming, and it makes no sense to me.
 
