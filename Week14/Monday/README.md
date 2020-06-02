@@ -1,9 +1,7 @@
 # 2020 - 5 - 25
 
 !iasip Begin Avoids JS at all costs
-
 !iasip Begin Barely Programs on Stream
-
 !iasip Begin Fixes One Bug and Creates 10
 
 !support

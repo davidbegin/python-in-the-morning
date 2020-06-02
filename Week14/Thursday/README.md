@@ -12,15 +12,12 @@
 
 whatsinmyopsec: !soundeffect CC5ca6Hsb2Q whatsinmyopsec 2:05 2:10
 
-
-
 !requests
 !approve 1
 python fake_bot.py -m "\!soundeffect CC5ca6Hsb2Q whatsinmyopsec 2:05 2:10" -u whatsinmyopsec
 
 Year-Oh
 Yo-Shi
-
 
 ## IASIP FIX
 
@@ -373,7 +370,7 @@ vsisual studio
 beginbot: it may be free now...but you just wait.
           why vscode???
           I'm ready to be sold, no sellers
-          Vim is hard.
+          Vim is not hard.
           How is it funner
           Why do I want to hang out in this world 8 hours a day.
 
