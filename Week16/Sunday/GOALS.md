@@ -1,8 +1,8 @@
 # Goals / Dreams / Visions
 
-- Continue BeginWorld Website
+- Continue mygeoangelfirespace.city
 
-- Allow Users to customize CSS
+- Build Battle for Home Page
 
 - Fix Bugs
 

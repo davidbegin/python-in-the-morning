@@ -1,13 +1,30 @@
 # 2020 - 6 - 5
 
-<https://www.beginworld.exchange/crazytech44.html>
-Curl the website
-Change the URL
+!issue the random props gives how ever many you specify to 1 random person. It
+doesn't give 1 to that many random people
+
+## Chatter Tips
+
+funksh0n: They return 405 on HEAD requests that return 200 for GET -.-
+
+## Friday Goals
+
+- Allow Users to start customizing their pages
+- Reduce some noisey output
+- Explore Whats the Worse that could happen:
 
 ## How Can People Customize Their Page
 
 - Reference a URL for CSS
 - Pull in File and upload
+  - Curl a website, and reupload
+  - Change the URL
+
+Theory to why its not working:
+
+- Different Domains for the CSS
+
+Cascading Styles Sheets
 
 ## The New Holy Trinity
 
@@ -198,7 +215,34 @@ Twitch Practice:
 
 ## Viewer Advice
 
+qualitycoder: if you copy the libraries to the root of your project, when you
+distribute it, no one will have to install it. When using an import statement,
+Python first checks locally in the project, then in the computer install path.
+
+More reasons that just ease of distribution, not use packages.
+
+People grabbing tools before they know the problem
+
+Packages are ok, But installing onethey should feel like drinking a glass of water
+after wandering the desert for 40 years
+
+Try and solve thigns simply yourself
+see what patterns
+then check out packages and they handle it
+then compare it your way
+
+attr_encrypted, ruby gem
+
+it monkey patched 30 methods onto String.
+This got into at work
+
+......if this a in-house PR, it would have ripped to shreds
+you package it up, NPM install, no one notices.
+
+!css  https://gist.githubusercontent.com/davidbegin/efdbf338ecfcdc14fa9ed792c6056ed3/raw/d7bcdf2f3c9ae4b3e280646601061b0b4de3a2c8/beginfun.css
+
 ## Viewer Questions
+
 
 ## Stream Visions
 
@@ -208,17 +252,116 @@ Twitch Practice:
 
 ## Begin Opinions
 
+## TMUX Life Crisis
+
+Split Conciousnous Life Crisis
+
+Who should split what?
+
+Window Manager
+Termimal Emulator
+Termimal Multiplexer
+Editor
+
+These can all "split"
+If I can
+
+- i3 -> DWM
+  - DWM splitting is more intituative than terminal splitting
+- ST -> alacritty
+  - alacritty has Tmux splitting
+    so do I drop TMux
+  - stupac62: not sure if you saw, but I think alacritty-like splitting is for
+    people without a tiling window manager
+- vim
+  - Could go harder on the VIM
+  - :term
+
 ## Ponderings
 
-## User Musings
+Back in the day, everyones page was unique!!!
+Woah Artmattdnk, got some nice new flames
+Woah howd you get that Papa Roach right when I visited.
+
+Now.....every site looks the same
+every page looks the same
+everything is just a cluster fuck ads and garbage.
+
+## Musings
+
+- NEVER BE AFRAID FROM CODE REVIEW
+- WHATS THE WORST
+
+- You were fired
+- Looked at your code, looked back you, your're fired
+  ??? has this even happened
+
+- You look dumb someone
+- beginbot: Oh know someone thinks I'm dumb
+
+The best way to really instill the proper practices, protocols, fears
+into someone around dropping a production database: Just Drop one.
+
+gaddam: Great way to test your HA setup :D :D
+
+if one person can take the company infra down, thats not that
+persons problem, thats a company.
+beginbot: Kinda drinking the policy as code koolaid
+stupac62: That’s a management problem because a failure of processes
+
+If you are going to program in production:
+Best Advice
+
+- Where do you live
+- What big hats do people not wear there
+- Wear that when coding in production
+- New York -> Cowboy
+- Cali -> Cheese Hat
+
+- When you see someone with the Cheese:
+  - They are in prod be respectful
+  - They have a stupid, make fun of them,
+    for coding in production.
+  - The whole team can notice the frequency
+
+- Whats the first public website that allowed people
+to upload their own CSS
+
+- Tripod
 
 ## Experiences
+
+IT                 VS Programming
+Personal Computers VS Servers
+
+You think the majority of programming jobs on are windows?
+
+Linux VS Windows
+THERES MORE LINUX -> 78%
+"Enterprise"
+
+What field area etc.
+West Coast Startups
+
+Goverment
+Transpration
+
+Manfucturing Plants, Automated
+OH MY GOD
+Ripped off sold the oldest worst tech
+
+I HAVE NEVER USED A WINDOWS COMPUTER
+I DON'T HAVE PROBLEMS GETTING JOBS
+.....I DON'T HAVE ANY FRIENDS IRL, THAT PRogramming windows
+
+Unix 500 Commands
 
 ## Debates
 
 ## Quotes
 
+"but most of all, Samy is my hero"
+
 ## Scraps
 
 ## Later
-

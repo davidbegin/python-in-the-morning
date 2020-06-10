@@ -1,8 +1,6 @@
 # Goals / Dreams / Visions
 
-- Continue BeginWorld Website
-
-- Allow Users to customize CSS
+- Continue mygeoangelfirespace.city
 
 - Fix Bugs
 
