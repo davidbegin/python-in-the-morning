@@ -1,5 +1,35 @@
 # 2020 - 6 - 10
 
+## Tommorrow
+
+- Rework the website:
+	- Show total sounds
+	- organize by new wealth
+	- add help info on user page about Custom CSS
+
+- Add Goverment Taxes
+- Sound Auction
+
+## Powers of the People
+
+!share
+!give
+!steal
+
+-> those actions can make the market
+-> I expect Escrow viewers to become a thing
+
+## Sev-2
+
+When updating a user soundeffect,
+a "Command" is also created and added to the command list
+
+## Today
+
+- New Concept of Weatlth - Cool Points + Value SFX Assets
+- When the goverment gives out sounds, they must pay
+- When sound costs are halved, that is essentially taxes
+
 ## Goals
 
 - Save Cube Times
@@ -8,6 +38,11 @@
 - Fix the donate
 - Fix cube drop
 - Build Government taxes
+
+- Typically war used to short term 40-day thing
+- Kings used to raise some money temporarily, lotta time through the church
+- When were Taxes
+  - When were All taxes invented
 
 ## BeginWorld Economic Flaws
 
@@ -89,6 +124,12 @@ Using Image Magick
 
 ## Personal Goals
 
+Help Fix Copywrite law
+
+Beginbot: not scared of DMCA.
+I don't sit here in silence and listen to music
+The stream is transformative
+
 ## Workflow Practices
 
 Twitch I3 Shortcuts
@@ -129,11 +170,78 @@ own Page, HAD RADICAL IMPLICATIOHNS.
 
 ## Advice
 
+Theres all these dorks, obsses with:
+Does backend pay more
+Does WEst Coast pay moire
+if I get this cert does it pay moer
+does google pay more than facebook
+
+Programmer salaries are CRAZY VERIED
+
+Random Programmer at Random Company, will be making $300,000
+becausee they know the system, they provide value
+
+- What do I love to do in programmer
+- Then I will do moer of it since I love it
+- I'll get smarter and more skills
+- Worth more money
+- Work Talks
+
 ## Opinions
 
 ## Viewer Advice
 
-## Viewer Questions
+hackcodeariel: @beginbot are you a fan of comments within your code?
+beginbot: Comments should explain why not how
+They should highlight unusual things, that are tricky
+and someone might not understand in the future
+comments are Lies waiting to happen
+If the code could be made more clear and elimiate the comment,
+obviously thats what you want.
+
+A comment for comments sake is dangerous.
+
+jr_boss: advice on how to get started
+jr_boss: so I want to switch to linux as a windows user who knows how to use
+the cmd prompt etc. any advice?
+
+- Go Slow and Take Notes
+- Linux is a big wide thing, depends on what you want to get done.
+
+- Read the Full Stackoverflow Question and Answer
+- including the commnets
+- including then downvoted
+
+No Path, More of a Mindset
+
+Beginbot: Don't think about "Paths" when it comes to jobs.
+Don't think about position or title.
+
+You: Skillz
+Them: Problemz
+
+Us: Can this be a good match
+
+Interview: Tips to cram before an interview
+Jobs are Relationship
+
+What do I want to learn
+Where do I want to help
+Who do I want to work with
+
+Think Long Term
+
+Rejecting a couple, getting rejected from a couple more,
+can result in a real nice life.
+
+Job interview, you are actually scouting future best.
+
+JOb Interviews will talk 6 people:
+
+- You might really live 1 of those people
+- You are excited to work and learn with them
+- .....then you find out....you never will work with that
+- find out what your team would be....not just the interbiew team
 
 ## Stream Visions
 
@@ -153,6 +261,9 @@ own Page, HAD RADICAL IMPLICATIOHNS.
 
 ## Musings
 
+Q: What to do with no power?
+A: Clean Electronics!
+
 ## Rants
 
 ## Experiences
@@ -168,3 +279,9 @@ own Page, HAD RADICAL IMPLICATIOHNS.
 ## Scraps
 
 ## Later
+
+## Big TODO
+
+- Get that UPS
+stupac62: This is a great podcast episode. @beginbot I bet you'd like it
+<https://gimletmedia.com/shows/reply-all/o2h8bx/158-the-case-of-the-missing-hit>
