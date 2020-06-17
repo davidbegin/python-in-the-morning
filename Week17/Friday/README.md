@@ -246,4 +246,3 @@ Meditation at 3:45 -> Sometimes you can reach the otherside
 ## Later
 
 - Get Smarter
-
