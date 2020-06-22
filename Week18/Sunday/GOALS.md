@@ -1,11 +1,13 @@
 # Goals / Dreams / Visions
 
-- Keep working on our thief system
+- Improve Thief System
 
-- Refactor Some Code
+- Hook Thieves into Coup System
 
-- Fix Bugs
+- Start the groundwork for Bot survivor
 
-- Write some Python
+- Build out Homepage Beauty Contest
+
+- Fix Bugs / Write some Python
 
 - Learn Things / Have Fun!
