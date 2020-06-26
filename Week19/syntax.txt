@@ -1,0 +1,18 @@
+...
+compound_statement:
+    | if_stmt
+    ...
+    | match_stmt
+match_stmt: "match" expression ':' NEWLINE INDENT case_block+ DEDENT
+case_block: "case" pattern [guard] ':' block
+guard: 'if' expression
+pattern: NAME ':=' or_pattern | or_pattern
+or_pattern: closed_pattern ('|' closed_pattern)*
+closed_pattern:
+    | name_pattern
+    | literal_pattern
+    | constant_pattern
+    | group_pattern
+    | sequence_pattern
+    | mapping_pattern
+    | class_pattern
