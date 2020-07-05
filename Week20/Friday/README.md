@@ -1,4 +1,26 @@
-# 2020 - 7 - 2
+# 2019 - 7 - 2
+
+## You can't choose a song
+
+30,000 BeginBux -> Write a song on the spot
+
+---
+
+zanuss: We still going?
+lucasfernsilva: !me
+detlion1643: must be some kind of learning bot, it's talking about the same stuff that chat has been
+
+"orenog_live4": "personnormalyesplus5"
+
+## COMING SOON
+
+Beginbot Bot Trials
+
+You should be able to accuse someone of being a bot,
+and then putting it to a vote:
+
+cachesking: is there a way to open a document with vim and got to a specific
+line number in the same command
 
 ## DevOps / SRE
 
@@ -53,6 +75,43 @@ Programmer 2: Builds a Calculator App for Super Smash Bros Damage
 Programmer 1's project might be more complicated overall,
 but it doesn't show that the person knows how to use to
 code to solve problems.
+
+## Experieneces
+
+When you talk to someone who is a "real user" of a technology,
+NOT MATTER WHAT THE TECHNOLOGY,
+they will have some rants.
+
+I learn Graphql, I do a simple site it
+I'm hyped on it.....but I don't know all the thorns
+
+Good to be Hyped!
+Drink the Kool-Aid
+....eventually you shouldtake off the Nikes
+
+- Public Facing Work:
+  - Blogs
+  - Talks
+  - Projeccts (that look nice)
+  - Open Source contributions
+- Join and Participate:
+  - Discord
+  - Mailing List
+  - Meetups
+
+A random friend, was leaving his company, so was someone else.
+The somone else was going to a Stealth Startup,
+and was looking for others (since they weren't public recruiter)
+He Hooked me up, and thats my job.
+
+ALL JOB DESCRIPTIONS ARE LIESSSSSSSSSSSSSSSSS
+
+I applied for a job, didn't get it
+.....3 months later, manager said could you do Angular?
+I said OF COURSE (I had done about 1 day of angular),
+got hired as a contractor,
+......and I just contributing to the backend
+and they said thats fine, stay there.
 
 ## Begin Dream
 
@@ -252,3 +311,78 @@ Why is windows integrating with Linux?
 ...and now they'be changed their policy from crush linux
    to take over
    that scares me.
+
+## Begin Philosohy
+
+There is nothing I like more, than some good ole artifical restrictions.
+
+- Didn't Eat Meat for 6 Years (Only on a bet)
+- Didn't Drink for a year for fun
+- No TV/Movies 10 years
+- Wake up before 5AM
+
+You have to build you own social reenforcements:
+by me telling chat and friends, I can't wathc things
+if I do wathc thnigs, I have people to yell at me
+That helps keep me towards my goasl.
+
+Phone doesn't leave the house.
+
+Digital minimalism
+
+- Have to take off rock climbing
+- Take it off for Yoga
+- Notifcations stressed me out
+
+....so I was just putting it on to work.
+
+---
+
+I have played disc golf once:
+
+Went with a friend who was really into to it, for a couple months
+
+We are playing, and a big crew was forming behind us
+So at one point, he was like, after this throw, ill let yall
+pass.
+
+5 people waiting to pass
+He throws the "disc" -> Hole in one in front of everyone -> and really far too
+
+SO I said, I quit, I will be never play this game again
+and lose my number
+
+----
+
+
+## Graphql
+
+Backend Devs -> Make an API
+
+Frontend Devs -> Use the API
+
+New Page, only need the title, and date from API
+
+Hey backend devs give me filtering options
+Filter out the data on the frontend
+or new endpoint
+
+.......or just do Graphql
+And if you need to optimize, a particularlly area,
+then you can do that.
+
+In the long wrong, if I was writing a simple, stable,
+API, I wouldn't Graphql
+
+So much of the benifit of Graphql is working on Team.
+joehaaga: hot take: GraphQL is like CI/CD - it solves an organizational problem
+more than a technological problem
+
+Git-Flow -> This is for Organization problems (Not tech problems, henve
+why I don't use it alone)
+
+---
+
+## One-Day Stupac is going to Run the Twitch Python/Vim/Keyboards News Channel
+
+- Once a Week: Report on the hottest new/intersting channels
