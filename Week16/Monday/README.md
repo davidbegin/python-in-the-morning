@@ -1,5 +1,12 @@
 # 2020 - 6 -1
 
+- Too Afraid to Make your First App
+- The meditative practive of reading you depencies before install
+- When do you need to jump from Static HTML Pages to Dynamic
+- Streaming Off a Pi
+  - Streaming off a PI on Arch
+- Cool uses for Graphviz
+
 NOOOO!!!! YOU CAN'T JUST MAKE AN APP THAT ALREADY EXISTS,
 YOUR FIRST PROGRAMS HAVE TO BE UNIQUE, WELL-TESTED,
 SCALABLE, AND WORTH A BILLION DOLLARS EACH!
