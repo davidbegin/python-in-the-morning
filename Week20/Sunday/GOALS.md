@@ -2,12 +2,10 @@
 
 Reign in Chaos of BeginWorld
 
-Help Viewers Write
-first Blogpost
-
-Organize ways for Viewers
-to Participate
+Write some Python
 
 Have Fun!
+
+Add More types
 
 Learn Things!
