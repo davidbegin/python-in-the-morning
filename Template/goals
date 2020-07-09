@@ -1,8 +1,0 @@
-#!/usr/bin/bash
-
-while :
-do
-  clear
-  cat GOALS.md | lolcat
-  sleep 30
-done

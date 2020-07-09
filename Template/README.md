@@ -1,5 +1,9 @@
 # DATE
 
+## Today
+
+## Yesterday
+
 ## Resources
 
 ## Bounties
@@ -12,13 +16,13 @@
 
 ## Ponderings
 
+## Experiences
+
 ## Opinions
 
 ## Debates
 
 ## Confessions
-
-## Python Interview
 
 ## Quotes
 
