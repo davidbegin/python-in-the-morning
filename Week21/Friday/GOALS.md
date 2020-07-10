@@ -2,12 +2,10 @@
 
 - Program Python
 
-- Add Types to our Project
-
-- Fix Bugs
-
-- Follow our Hearts
+- More Types in our Project
 
 - Learn Things
 
 - Have Fun!
+
+- Follow Our Dreams!
