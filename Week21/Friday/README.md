@@ -484,7 +484,5 @@ Often Lists in python are called Arrays in other langauges.
 Arrays are more when you are working with large amounts
 of data, and you can about speed of things or size of thing or size of things/
 
-----
-
 When we can ensure an object has not been modifed, we eliminate
 like 50% of bugs
