@@ -47,6 +47,17 @@ whatsinmyopsec: the abilty to sell sounds to the fed to bootstrap a revolution w
 
 ## Experiences
 
+Whenever I feel overwhelmed with learning a mountain of something:
+
+  - I create a daily practice
+    - Set time of time of day to learn
+    - Small learning session (Hour is absolute longest 15-20 mins)
+  - Running Journal or all open questions, and learnings
+  - Pick a start and end date:
+    - At least be 30 days
+    - year's cool
+    - 3 months is cool
+
 ## Opinions
 
 Beginbot I'm an contrarian, sorry.
@@ -135,11 +146,35 @@ Why no clones:
 - And in my experience people can't get off them. Until
 
 
-
-
 ## Debates
 
 ## Confessions
+
+Morning Journal
+  -> What would make today great
+  -> What am I grateful for
+  -> Any freeform writing
+Night Journal
+  -> What made today amazing
+  -> What could have made it better
+    -> Action item?
+  -> Any freeform writing
+
+- What are your healthy routines
+  - You should sanwhich your day with routines
+    - Morning routine
+    - Night routine
+  - Do activities totally outside of computers
+  - You should read daily
+  - You should meditate
+  - You should journal
+  - You should Social Media
+  - Ideally you wan't
+
+  - Before you look at ANY ELECTRONICS
+    - Right when you wake up
+  - At night, after you turn off electronics (I skip this one more)
+  - In the afternoon it's an excellent pickup
 
 ## Quotes
 
