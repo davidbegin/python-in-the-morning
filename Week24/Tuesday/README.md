@@ -18,6 +18,13 @@
 - https://www.vimconf.live/#
 - https://duckduckgo.com/?q=dave+cheny+golang&t=brave&iar=videos&iax=videos&ia=videos
 - https://aur.archlinux.org/packages/neovim-nightly
+- alireza_farhadi: I suggest a song (this song is free) if you want , download it https://dls.music-fa.com/tagdl/99/Behnam%20Bani%20-%20Ghorse%20Ghamar%202%20(320).mp3
+
+[Final Fantasy 6 -  Coin Song](https://www.youtube.com/watch?v=J4_ewaO7SA4)
+
+https://github.com/CodingGarden/link-me
+
+
 
 ## Bounties
 
@@ -99,6 +106,9 @@ With:               "Ima keep it 2 Virgils with you"
 
 
 ## Quotes
+
+sysosmaster: I am normal. I just Reject your reality and substitute my own....
+sysosmaster: Goal of live: By as happy with the people around you as yu can, with causing the least amount of harm to the rest of the planet...
 
 ## Scraps
 
