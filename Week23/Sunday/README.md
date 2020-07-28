@@ -181,3 +181,5 @@ Night Journal
 ## Scraps
 
 ## TODO
+
+- rockerboo: video about installing neovim 0.5? :)
